@@ -5,7 +5,7 @@ This is a simple Flask API for managing product data. The API allows you to perf
 ## Setup
 To use this API, you need to have the following software installed on your system:
 
-* Python 3.10 or later!
+* Python 3.210 or later!
 * Flask
 * Flask-RESTful
 * Flask-Cors
